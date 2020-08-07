@@ -30,7 +30,7 @@ body{
     margin: 0px;
 }
 
-@media(max-width: 576px)
+@media(max-width: xs)
 {
     #des{
         width: 90%;
